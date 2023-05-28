@@ -1,6 +1,6 @@
 body{
     background-color: black;
-    color: blueviolet;
+     color:gray;
     @media (max-width:700em) {
         width: 100%;
     }
@@ -91,4 +91,7 @@ font-size: 4ch;
  }
  .con{
     text-align: center;
+ }
+ a{
+  color: white;
  }
